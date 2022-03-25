@@ -8,10 +8,11 @@
 
   <title>
       {% if page.tag or page.title %}
-        {% if page.tag %}
-          {{ page.tag | escape }}
+        {% if page.title %}
+          <!-- {{ page.tag | escape }} -->
+          {{ page.title}}
         {% else %}
-          {{ page.title | escape }}
+          {{ page.tag | escape }}
         {% endif %}
         -
       {% endif %}
