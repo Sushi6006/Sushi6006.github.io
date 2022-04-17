@@ -9,7 +9,7 @@ page.description: my attempt at translating "The Egg"
 
 [原文戳这里](http://www.galactanet.com/oneoff/theegg_mod.html)
 
-And this is my attempt at translating this story.
+And this is my attempt at translating this story. "*"是译者注释。
 
 <br>
 
