@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Cafe Blog #4: Just a Cafe",
+      "category" : "",
+      "tags"     : "cafe",
+      "url"      : "/2023/01/01/cafeblog4",
+      "date"     : "2023-01-01 00:00:00 -0600"
+    } ,
+  
+    {
       "title"    : "Cafe Blog #3: You Gon&#39; Learn",
       "category" : "",
       "tags"     : "cafe",
