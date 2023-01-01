@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "Cafe Blog #3: You Gon&#39; Learn",
+      "category" : "",
+      "tags"     : "cafe",
+      "url"      : "/2022/03/28/cafeblog3",
+      "date"     : "2022-03-28 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Cafe Blog #2: Dreams ain&#39;t enough",
+      "category" : "",
+      "tags"     : "cafe",
+      "url"      : "/2022/03/26/cafeblog2",
+      "date"     : "2022-03-26 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Cafe Blog #1: It all starts from here",
+      "category" : "",
+      "tags"     : "cafe",
+      "url"      : "/2022/03/26/cafeblog1",
+      "date"     : "2022-03-26 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "[Constantly updating] Cafe Blog #0: random thoughts/notes",
+      "category" : "",
+      "tags"     : "cafe",
+      "url"      : "/2022/03/26/cafeblog0",
+      "date"     : "2022-03-26 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "[Constantly updating] 2022 Reading List",
+      "category" : "",
+      "tags"     : "reading",
+      "url"      : "/2022/01/01/booklist",
+      "date"     : "2022-01-01 00:00:00 -0600"
+    } 
+  
+]

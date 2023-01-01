@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sushi6006.github.io/sitemap.xml
